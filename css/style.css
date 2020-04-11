@@ -1,0 +1,96 @@
+/*  Hi! your going to write styles here in the next couple activities. */
+
+#pageTopic {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.large {
+    font-size: 66px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.colorContainer {
+    display: inline-block;
+    margin: 15px;
+}
+
+.swatch {
+    height: 200px;
+    width: 170px;
+    border: 1px solid black;
+}
+.hexCode {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.header {
+    height: 250px;
+    max-height: 500px;
+    background-image: url(../images/upsBackground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.type_container{
+    display: inline-block;
+    margin: 20px;
+}
+.button{
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    outline: 1px dashed red;
+}
+/* Colors */
+.darkBlue{
+    background-color: #333366;
+}
+.darkGrey{
+    background-color: #545454;
+}
+.lightGrey{
+    background-color: #e3e3e3;
+}
+.white{
+    background-color: white;
+}
+.lightBlue{
+    background-color: #12a0f6;
+}
+.red{
+    background-color: #f84848;
+}
+.orange{
+    background-color: #fc7705
+}
+.lightGreen{
+    background-color: #8abe48;
+}
+
+
+.darkGrey{
+    background-color: #545454;
+}
+.darkGrey{
+    background-color: #545454;
+}
+.darkGrey{
+    background-color: #545454;
+}
+.darkGrey{
+    background-color: #545454;
+}
